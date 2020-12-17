@@ -1,0 +1,16 @@
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\bin\Debug\Dbms.exe.config
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\bin\Debug\Dbms.exe
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\bin\Debug\Dbms.pdb
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\bin\Debug\Oracle.DataAccess.dll
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.csprojResolveAssemblyReference.cache
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.Form1.resources
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.Properties.Resources.resources
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.reg.resources
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.csproj.GenerateResource.Cache
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.exe
+c:\users\ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.pdb
+C:\Users\Ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.display.resources
+C:\Users\Ck\documents\visual studio 2012\Projects\Dbms\Dbms\obj\Debug\Dbms.disinfo.resources
+Z:\GEC\Sem 7\Expts\Dbms\Dbms\bin\Debug\Dbms.exe.config
+Z:\GEC\Sem 7\Expts\Dbms\Dbms\obj\Debug\Dbms.exe
+Z:\GEC\Sem 7\Expts\Dbms\Dbms\obj\Debug\Dbms.pdb
